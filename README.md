@@ -14,11 +14,12 @@
 
 # codigo
 
-![image](https://github.com/user-attachments/assets/5885f2a4-059a-40a0-92c5-1409fbcf5738)
+![image](https://github.com/user-attachments/assets/b5ea2da2-7c48-4359-8e77-ced8557e6649)
 
 # ejecucion
 
-![image](https://github.com/user-attachments/assets/6ba82f71-6029-4937-90df-1b65ded020ca)
+![image](https://github.com/user-attachments/assets/44ee9e89-d7a9-4f0f-9ee8-97fc25e93a70)
+
 
 
 
